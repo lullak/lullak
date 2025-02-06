@@ -1,4 +1,4 @@
-# Hi there, I'm Lullak! 👋
+# Hi there, I'm Dennis! 👋
 
 Welcome to my GitHub profile! I'm a passionate and experienced programmer with a strong focus on C# and .NET. In addition to my technical skills, I have a keen interest in business development, process improvement, and helping companies grow.
 

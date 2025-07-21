@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced programmer with a
 
 - 👯 I’m looking to collaborate on exciting projects that involve C# .NET.
 - 📫 How to reach me: (https://www.linkedin.com/in/dennis-bircan-a43bb2135/)
-- ⚡ Fun fact: I have a strong interest in the stock market.
+- ⚡ Fun fact: I have a interest in the stock market.
 
 ## Skills and Expertise
 

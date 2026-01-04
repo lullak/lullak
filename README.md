@@ -1,41 +1,36 @@
-# Hi there, I'm Dennis! 👋
+# Hi, I'm Dennis! 👋
 
-Welcome to my GitHub profile! I'm a passionate and experienced programmer with a strong focus on C# and .NET. In addition to my technical skills, I have a keen interest in business development, process improvement, and helping companies grow.
+Welcome to my GitHub profile! I’m a junior .NET developer with a background in economics and experience in finance and investor relations. I am currently studying Software Development .NET at Nackademin, graduating in May 2026, and completing a backend internship where I work on building reliable backend systems and integrating business processes with technology.
 
 ## About Me
 
-- 👯 I’m looking to collaborate on exciting projects that involve C# .NET.
-- 📫 How to reach me: (https://www.linkedin.com/in/dennis-bircan-a43bb2135/)
-- ⚡ Fun fact: I have a interest in the stock market.
+- 👯 I’m looking to collaborate on projects involving C# .NET, backend development, and modern web technologies.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dennis-bircan-a43bb2135/)  
+- ⚡ Fun fact: I have a strong interest in the stock market and process optimization.
 
 ## Skills and Expertise
 
 ### Programming
 
-- C#
-- Database SQL
-- Frontend Development
-  - HTML, CSS, JavaScript, TypeScript, React, Angular
-- ASP.NET Development
-- Object-Oriented Analysis and Design
-- Data Communication and Security
-- Technical Specialization
-- DevOps
+- C#, .NET, ASP.NET Core  
+- REST APIs, event-driven architecture  
+- SQL Server, PostgreSQL  
+- Frontend basics: Blazor, HTML, CSS, JavaScript, TypeScript, React  
+- Object-Oriented Analysis & Design  
+- DevOps, CI/CD, Azure, Docker, OpenShift, GitHub Actions  
 
-### Business and Leadership (Previous work experience)
+### Business and Leadership Experience
 
-- Experienced and goal-oriented leader with competence in daily operational management, training, and process improvement implementation.
-- Ensuring customer satisfaction, especially in support of CEOs and CFOs in IR work for our listed clients.
-- Ultimate responsibility for ensuring all listed companies comply with regulatory requirements, receive reliable services, and experience a high degree of security from us as a provider.
-- Responsible for the OTC (https://www.otclistan.se/).
+- Operations and Process Manager in Investor Relations for listed companies  
+- Regulatory compliance (Nasdaq Stockholm, First North)  
+- Process improvements, project management, and corporate website development  
 
 ## GitHub Stats
 
-![Lullak's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullak&show_icons=true&theme=radical)
+![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullak&show_icons=true&theme=radical)
 
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lullak&layout=compact&theme=radical)
 
-
-Thanks for visiting my profile! Have a great day! 😊
+Thanks for visiting my profile!

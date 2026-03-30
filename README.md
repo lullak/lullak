@@ -1,36 +1,42 @@
 # Hi, I'm Dennis! 👋
 
-Welcome to my GitHub profile! I’m a junior .NET developer with a background in economics and experience in finance and investor relations. I am currently studying Software Development .NET at Nackademin, graduating in May 2026, and completing a backend internship where I work on building reliable backend systems and integrating business processes with technology.
+Welcome to my GitHub profile! I'm a software developer with a background in economics, finance, and operations management, currently completing my Software Development .NET degree at Nackademin.
 
 ## About Me
 
-- 👯 I’m looking to collaborate on projects involving C# .NET, backend development, and modern web technologies.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dennis-bircan-a43bb2135/)  
-- ⚡ Fun fact: I have a strong interest in the stock market and process optimization.
+- 👯 Looking to collaborate on projects involving C#, .NET, backend development, and system integrations
+- 💼 6 years of prior experience working directly with CEOs and CFOs of Nasdaq Stockholm and First North listed companies — I bring strong business logic understanding to every technical problem
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dennis-bircan-a43bb2135/)
+- ⚡ Fun fact: strong interest in the stock market, process optimisation, and AI-assisted development
 
-## Skills and Expertise
+## Skills
 
-### Programming
+### Backend
+- C#, .NET, ASP.NET Core
+- REST APIs, event-driven architecture, microservices
+- SQL Server, PostgreSQL
+- Unit testing (NUnit, xUnit)
 
-- C#, .NET, ASP.NET Core  
-- REST APIs, event-driven architecture  
-- SQL Server, PostgreSQL  
-- Frontend basics: Blazor, HTML, CSS, JavaScript, TypeScript, React  
-- Object-Oriented Analysis & Design  
-- DevOps, CI/CD, Azure, Docker, OpenShift, GitHub Actions  
+### Cloud & DevOps
+- Azure, Docker, OpenShift, GitHub Actions, CI/CD, Aspire, Grafana
+- Agile/Scrum
 
-### Business and Leadership Experience
+### Frontend
+- JavaScript, TypeScript, React, HTML, CSS
 
-- Operations and Process Manager in Investor Relations for listed companies  
-- Regulatory compliance (Nasdaq Stockholm, First North)  
-- Process improvements, project management, and corporate website development  
+### AI Tools
+- GitHub Copilot, Claude, Gemini, Anthropic API (personal projects)
+
+### Business & Domain
+- Investor relations, financial reporting
+- Nasdaq Stockholm / First North regulatory compliance
+- International postal services
+- Cross-industry business logic: pharma, real estate, mining, space tech, finance
 
 ## GitHub Stats
-
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lullak&show_icons=true&theme=radical)
 
 ## Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lullak&layout=compact&theme=radical)
 
-Thanks for visiting my profile!
+Thanks for visiting!

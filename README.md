@@ -1,4 +1,4 @@
-# Hi, I'm Dennis! 👋
+# Hi 👋
 
 Welcome to my GitHub profile!
 

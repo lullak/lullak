@@ -1,7 +1,5 @@
 # Hi 👋
 
-Welcome to my GitHub profile!
+## More Info
 
-## About Me
-
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dennis-bircan-a43bb2135/)
+For more information about my background, projects, and experience, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dennis-bircan-a43bb2135/).
